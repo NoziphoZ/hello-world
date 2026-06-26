@@ -1,6 +1,11 @@
-# hello-world
+# Hello World
+
 Hello!
 
 My name is Nozipho Zanele Ndlovu.
 
-My first GitHub Hello World repository
+Welcome to my first GitHub repository.
+
+## Branch One
+
+This change was made in branch-one.
